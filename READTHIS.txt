@@ -1,0 +1,7 @@
+BlackJackApp create by Hedda Eriksson
+
+Solution is created in a parallel desktop on mac.. 
+
+Before building and runnning do this:
+1. Check for marks "HERE" and unmark those lines. GameManager Line 39 & MainWindow Line 25
+2. Clean and Rebuild
